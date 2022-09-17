@@ -1,0 +1,1 @@
+Install:pip install numpypip install matplotlibpip install pandas1. For question 1, x_train.npy, x_test.npy ,y_train.npy,y_test.npy file paths should be specified in specified in '/content/drive/MyDrive/ExampleFile.npy' directory.2. For question 2, 'Assignment1_Q2_Data.csv' filepath should be specified in t'/content/drive/MyDrive/Assignment1_Q2_Data.csv' directory.
