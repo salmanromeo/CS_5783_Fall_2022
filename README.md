@@ -1,1 +1,1 @@
-# CS_5783_Fall_2022
+# CS_5783_Machine_Learning_Fall_2022
